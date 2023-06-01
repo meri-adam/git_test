@@ -1,1 +1,2 @@
 Let's do it git 
+adding second line to test commit comment in vsc
